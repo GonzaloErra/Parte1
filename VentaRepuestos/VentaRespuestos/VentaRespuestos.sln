@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VentaRespuestos.IGU", "VentaRespuestos.IGU\VentaRespuestos.IGU.csproj", "{9B04E99A-8612-46AD-8558-045DF6549D99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VentaRespuestos.Biblioteca", "VentaRespuestos.Biblioteca\VentaRespuestos.Biblioteca.csproj", "{63B41F3D-6981-4F53-8082-B2DC79868241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B04E99A-8612-46AD-8558-045DF6549D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B04E99A-8612-46AD-8558-045DF6549D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B04E99A-8612-46AD-8558-045DF6549D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B04E99A-8612-46AD-8558-045DF6549D99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63B41F3D-6981-4F53-8082-B2DC79868241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B41F3D-6981-4F53-8082-B2DC79868241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B41F3D-6981-4F53-8082-B2DC79868241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B41F3D-6981-4F53-8082-B2DC79868241}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50149B8B-CC6B-4E79-9E62-C5DFBCDB61F8}
+	EndGlobalSection
+EndGlobal
